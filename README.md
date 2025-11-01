@@ -1,34 +1,76 @@
 <h1 align="center">Hi 👋, I'm Ta Hoang Hiep</h1>
-<h3 align="center">A passionate fullstack web developer from Vietnam 🇻🇳</h3>
+<h3 align="center">Full-stack Web Developer • Vietnam 🇻🇳</h3>
 
 <p align="center">
-🎓 I'm a recent graduate and aspiring fullstack web developer who loves building real-world projects.<br />
-💻 My personal project: <br />
-👉 <a href="https://github.com/hoanghiep2625/NodeJs_Ivymoda">Backend (Node.js + Express)</a><br />
-👉 <a href="https://github.com/hoanghiep2625/ReactJs_Ivymoda">Frontend (React + TypeScript + Refine)</a>
+I build production-grade web apps end-to-end (monorepo, CI/CD, observability).  
+Most of my work is in private repos / under NDA — happy to demo privately.
 </p>
+
+<div align="center">
+  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+[![TypeORM](https://img.shields.io/badge/TypeORM-fb3?logo=databricks&logoColor=000)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+
+</div>
 
 ---
 
-- 🌱 I’m currently learning more about **system design** and **advanced frontend architecture**
-- 💬 Ask me about anything related to **React, Node.js, MongoDB, Tailwind, Refine, or REST APIs**
-- 📫 How to reach me: **hiepthph51021@gmail.com**
-- 👤 Facebook: [Tạ Hoàng Hiệp](https://fb.com/100073794850405)
+## 🔭 What I do
+- Design & implement **REST/WebSocket APIs** with **NestJS** (auth, RBAC, rate-limit, cache, metrics).
+- Build **Next.js** frontends (App Router, server actions, React Query, SSR/ISR, Tailwind).
+- Model data & optimize queries on **PostgreSQL** / **MongoDB**, ORMs: **Prisma**, **TypeORM**.
+- Operate with **Docker**/**Traefik**, GitHub Actions CI/CD, secrets & env strategy.
+- Realtime systems: order book–like UIs, streaming data, snapshot & back-pressure handling.
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-</p>
+## 🧭 Focus & Interests
+- **System design** for modular monorepos (domain-driven, clean architecture).
+- **Performance**: caching layers (Redis), N+1 prevention, connection pooling, indexes.
+- **DX**: schema-first APIs, typed clients, lint/format/test pipelines.
 
+---
+
+## 🧰 Toolbox (daily drivers)
+- **Backend**: NestJS, Node.js, Express
+- **Frontend**: Next.js, React, Tailwind CSS
+- **DB**: PostgreSQL, MongoDB
+- **ORM**: Prisma, TypeORM
+- **Infra**: Docker, Traefik, GitHub Actions
+- **Other**: Redis, WebSockets, Zod, Jest/RTL, Postman
+
+---
+
+## 📈 Recent learning
+- Advanced **PostgreSQL** (locks, isolation, EXPLAIN/ANALYZE).
+- **WebSockets at scale** (auth, multiplexing, snapshot delta).
+- **Observability** (structured logs, tracing, metrics).
+
+---
+
+## 🤝 Work style
+- Private/NDA friendly. Can share anonymized architecture diagrams or do a live demo on request.
+- Preference for typed contracts, clear SLAs, and measurable deliverables.
+
+---
+
+## 📬 Contact
+- **Email:** hiepthph51021@gmail.com  
+- **Facebook:** [Tạ Hoàng Hiệp](https://fb.com/100073794850405)
+
+<!-- Optional GitHub widgets: uncomment if you like -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanghiep2625&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanghiep2625" height="160" />
+</div>
+-->
