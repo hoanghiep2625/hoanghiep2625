@@ -33,33 +33,13 @@ Most of my work is in private repos / under NDA — happy to demo privately.
 
 ---
 
-## 🧭 Focus & Interests
-- **System design** for modular monorepos (domain-driven, clean architecture).
-- **Performance**: caching layers (Redis), N+1 prevention, connection pooling, indexes.
-- **DX**: schema-first APIs, typed clients, lint/format/test pipelines.
-
----
-
 ## 🧰 Toolbox (daily drivers)
 - **Backend**: NestJS, Node.js, Express
 - **Frontend**: Next.js, React, Tailwind CSS
-- **DB**: PostgreSQL, MongoDB
-- **ORM**: Prisma, TypeORM
+- **DB**: PostgreSQL, MongoDB, MySQL
+- **ORM**: Prisma, TypeORM, Mongoose
 - **Infra**: Docker, Traefik, GitHub Actions
-- **Other**: Redis, WebSockets, Zod, Jest/RTL, Postman
-
----
-
-## 📈 Recent learning
-- Advanced **PostgreSQL** (locks, isolation, EXPLAIN/ANALYZE).
-- **WebSockets at scale** (auth, multiplexing, snapshot delta).
-- **Observability** (structured logs, tracing, metrics).
-
----
-
-## 🤝 Work style
-- Private/NDA friendly. Can share anonymized architecture diagrams or do a live demo on request.
-- Preference for typed contracts, clear SLAs, and measurable deliverables.
+- **Other**: Redis, WebSockets, Jest/RTL, Postman
 
 ---
 
